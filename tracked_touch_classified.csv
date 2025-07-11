@@ -1,0 +1,883 @@
+timestamp_frame,x,y,class
+0,932,287,
+1,1012,359,
+2,891,579,Status effect 2
+3,838,65,Time score
+4,581,125,
+5,1472,392,Skill 3
+6,1158,476,Lock enemy 2
+7,869,417,
+8,594,382,
+9,465,119,
+10,457,210,
+11,645,196,
+12,692,120,
+13,1562,23,Shop
+14,582,541,Joystick
+15,102,348,
+16,557,529,Joystick
+17,1503,17,Shop
+18,1614,14,Shop
+19,460,364,Joystick
+20,460,513,Joystick
+21,478,540,Joystick
+22,450,656,Joystick
+23,1615,15,Shop
+24,1615,15,Shop
+25,1631,218,Gather command
+26,95,662,
+27,284,635,Joystick
+28,239,633,Joystick
+29,109,659,
+30,229,324,Joystick
+31,1549,13,Shop
+32,512,464,Joystick
+33,418,539,Joystick
+34,358,52,Configuration
+35,361,51,Configuration
+36,345,680,Joystick
+37,1200,517,Skill 2
+38,269,376,Joystick
+39,221,507,Joystick
+40,194,500,Joystick
+41,195,507,Joystick
+42,254,556,Joystick
+43,334,637,Joystick
+44,443,426,Joystick
+45,463,379,Joystick
+46,507,649,Joystick
+47,1212,557,Skill 2
+48,1615,15,Shop
+49,1282,361,Upgrade skill 3
+50,496,656,Joystick
+51,1519,25,Shop
+52,1265,114,Cancelation
+53,1616,16,Shop
+54,1616,16,Shop
+55,1558,708,
+56,1323,689,Basic attack
+57,1318,687,Basic attack
+58,1309,688,Basic attack
+59,1309,688,Basic attack
+60,1269,378,Lock enemy 4
+61,1278,358,Upgrade skill 3
+62,1279,353,Upgrade skill 3
+63,1616,16,Shop
+64,459,401,Joystick
+65,435,353,Joystick
+66,1594,90,Attack command
+67,1591,95,Attack command
+68,1588,96,Attack command
+69,1586,69,Shop
+70,1637,63,Shop
+71,1189,552,Skill 1
+72,408,672,Joystick
+73,466,663,Joystick
+74,347,539,Joystick
+75,277,323,Joystick
+76,1616,16,Shop
+77,1519,25,Shop
+78,1562,21,Shop
+79,1532,70,Attack command
+80,1548,22,Shop
+81,522,513,Joystick
+82,1432,415,Skill 3
+83,1463,367,Skill 3
+84,244,652,Joystick
+85,173,623,Joystick
+86,165,616,Joystick
+87,135,547,Joystick
+88,197,627,Joystick
+89,230,654,Joystick
+90,370,666,Joystick
+91,491,652,Joystick
+92,1577,681,
+93,1566,693,
+94,1375,534,Basic attack
+95,1301,597,Basic attack
+96,1303,577,Basic attack
+97,428,672,Joystick
+98,374,219,Pin mini map
+99,340,517,Joystick
+100,368,154,On mic team
+101,879,305,
+102,368,154,On mic team
+103,368,154,On mic team
+104,1589,19,Shop
+105,1268,422,Skill 2
+106,1325,418,Skill 3
+107,1614,15,Shop
+108,1589,18,Shop
+109,511,512,Joystick
+110,574,532,Joystick
+111,965,258,
+112,482,128,
+113,1614,14,Shop
+114,565,513,Joystick
+115,679,210,
+116,1614,15,Shop
+117,672,356,
+118,1189,644,Skill 1
+119,553,450,Joystick
+120,593,488,Joystick
+121,599,489,Joystick
+122,593,484,Joystick
+123,516,532,Joystick
+124,513,499,Joystick
+125,564,566,Joystick
+126,437,685,Joystick
+127,445,685,Joystick
+128,402,653,Joystick
+129,316,547,Joystick
+130,236,501,Joystick
+131,657,500,
+132,678,343,
+133,610,414,
+134,237,614,Joystick
+135,38,690,
+136,298,505,Joystick
+137,440,580,Joystick
+138,353,463,Joystick
+139,95,467,
+140,154,338,
+141,42,535,
+142,39,694,
+143,334,309,Joystick
+144,521,468,Joystick
+145,517,450,Joystick
+146,302,647,Joystick
+147,352,665,Joystick
+148,1616,16,Shop
+149,357,47,Configuration
+150,1065,345,
+151,1067,188,
+152,368,664,Joystick
+153,529,584,Joystick
+154,440,595,Joystick
+155,744,473,
+156,515,500,Joystick
+157,263,410,Joystick
+158,1293,472,Skill 2
+159,388,555,Joystick
+160,902,360,
+161,251,645,Joystick
+162,336,650,Joystick
+163,380,472,Joystick
+164,395,464,Joystick
+165,202,496,Joystick
+166,222,591,Joystick
+167,312,664,Joystick
+168,357,473,Joystick
+169,299,308,Joystick
+170,126,496,Joystick
+171,446,381,Joystick
+172,166,402,Joystick
+173,390,462,Joystick
+174,764,511,
+175,329,565,Joystick
+176,150,583,Joystick
+177,389,362,Joystick
+178,382,343,Joystick
+179,445,633,Joystick
+180,1589,19,Shop
+181,490,621,Joystick
+182,368,155,On mic team
+183,782,328,
+184,1032,367,
+185,1467,161,Retreat command
+186,351,375,Joystick
+187,1204,46,
+188,417,475,Joystick
+189,275,518,Joystick
+190,394,547,Joystick
+191,420,665,Joystick
+192,428,659,Joystick
+193,368,155,On mic team
+194,373,660,Joystick
+195,362,652,Joystick
+196,420,676,Joystick
+197,787,296,
+198,1150,668,Skill 1
+199,832,292,
+200,1474,267,Text command
+201,1294,438,Skill 2
+202,1232,398,Lock enemy 3
+203,1346,491,Skill 2
+204,82,284,Mini map
+205,171,258,Mini map
+206,165,258,Mini map
+207,455,493,Joystick
+208,905,645,Regen
+209,332,706,Joystick
+210,1198,167,Cancelation
+211,458,232,
+212,1200,417,Upgrade skill 2
+213,338,340,Joystick
+214,496,437,Joystick
+215,462,345,Joystick
+216,574,585,Joystick
+217,537,387,Joystick
+218,547,393,Joystick
+219,1233,51,
+220,437,477,Joystick
+221,404,367,Joystick
+222,912,203,
+223,1154,208,
+224,1129,259,
+225,368,154,On mic team
+226,371,294,Joystick
+227,1100,58,
+228,910,686,Recall
+229,965,162,
+230,233,427,Joystick
+231,1183,111,
+232,1269,113,Cancelation
+233,1492,119,Attack command
+234,1493,119,Attack command
+235,1442,140,Retreat command
+236,330,636,Joystick
+237,1316,95,Cancelation
+238,499,484,Joystick
+239,1305,127,Cancelation
+240,1318,143,Cancelation
+241,1234,123,Cancelation
+242,1295,122,Cancelation
+243,1350,148,Cancelation
+244,1354,135,Cancelation
+245,1334,120,Cancelation
+246,1346,126,Cancelation
+247,1361,134,Cancelation
+248,302,579,Joystick
+249,1256,477,Skill 2
+250,156,70,Mini map
+251,794,282,
+252,122,68,Mini map
+253,1614,15,Shop
+254,1522,214,Gather command
+255,1549,22,Shop
+256,924,355,
+257,413,392,Joystick
+258,1286,594,Basic attack
+259,399,317,Joystick
+260,239,628,Joystick
+261,356,392,Joystick
+262,1269,167,Cancelation
+263,356,280,Joystick
+264,688,329,
+265,368,266,Joystick
+266,407,313,Joystick
+267,485,580,Joystick
+268,480,586,Joystick
+269,384,635,Joystick
+270,863,475,
+271,1615,15,Shop
+272,1616,16,Shop
+273,1616,17,Shop
+274,1321,655,Basic attack
+275,1349,70,Cancelation
+276,1277,69,Cancelation
+277,446,617,Joystick
+278,458,555,Joystick
+279,468,552,Joystick
+280,1543,68,Shop
+281,1282,552,Skill 2
+282,428,477,Joystick
+283,435,430,Joystick
+284,287,458,Joystick
+285,1615,15,Shop
+286,363,369,Joystick
+287,1593,184,Retreat command
+288,1479,295,Text command
+289,1565,441,
+290,1502,229,Gather command
+291,1477,234,Gather command
+292,1467,213,Gather command
+293,307,330,Joystick
+294,325,325,Joystick
+295,352,326,Joystick
+296,811,251,
+297,835,297,
+298,1549,21,Shop
+299,1016,323,
+300,1589,20,Shop
+301,1614,15,Shop
+302,897,361,
+303,1589,19,Shop
+304,1589,19,Shop
+305,1614,15,Shop
+306,1589,18,Shop
+307,1615,15,Shop
+308,938,385,
+309,1250,499,Skill 2
+310,1542,246,Gather command
+311,368,154,On mic team
+312,331,670,Joystick
+313,333,676,Joystick
+314,1614,14,Shop
+315,473,606,Joystick
+316,473,618,Joystick
+317,191,450,Joystick
+318,513,413,Joystick
+319,780,595,Summon command
+320,1005,625,Regen
+321,372,285,Joystick
+322,1346,66,Cancelation
+323,360,211,Pin mini map
+324,374,53,Configuration
+325,656,406,
+326,780,391,
+327,1204,648,Skill 1
+328,1614,15,Shop
+329,366,58,Configuration
+330,1548,22,Shop
+331,1615,16,Shop
+332,375,219,Pin mini map
+333,357,51,Configuration
+334,1614,15,Shop
+335,1614,15,Shop
+336,322,274,Joystick
+337,365,58,Configuration
+338,1459,151,Retreat command
+339,1616,17,Shop
+340,368,155,On mic team
+341,368,155,On mic team
+342,1291,445,Skill 2
+343,1265,421,Skill 2
+344,1284,600,Basic attack
+345,405,385,Joystick
+346,419,387,Joystick
+347,1017,449,
+348,595,566,Joystick
+349,97,700,
+350,488,456,Joystick
+351,527,440,Joystick
+352,114,672,
+353,875,245,
+354,376,526,Joystick
+355,657,195,
+356,471,430,Joystick
+357,469,425,Joystick
+358,446,384,Joystick
+359,450,375,Joystick
+360,713,481,
+361,1589,18,Shop
+362,378,414,Joystick
+363,892,333,
+364,470,424,Joystick
+365,467,415,Joystick
+366,456,407,Joystick
+367,1600,73,Shop
+368,370,42,Configuration
+369,1616,17,Shop
+370,1616,17,Shop
+371,1616,17,Shop
+372,1613,68,Shop
+373,1590,87,Attack command
+374,1499,69,Shop
+375,313,433,Joystick
+376,1361,390,Skill 3
+377,278,582,Joystick
+378,279,627,Joystick
+379,290,650,Joystick
+380,1615,14,Shop
+381,217,383,Joystick
+382,843,246,Upgrade skill 1
+383,1428,136,Retreat command
+384,1615,16,Shop
+385,1615,16,Shop
+386,1618,19,Shop
+387,1291,447,Skill 2
+388,892,203,
+389,1240,409,
+390,344,160,On mic team
+391,1330,432,Skill 3
+392,1333,517,Skill 2
+393,150,239,Mini map
+394,145,242,Mini map
+395,145,243,Mini map
+396,149,239,Mini map
+397,1180,459,Upgrade skill 2
+398,156,237,Mini map
+399,412,421,Joystick
+400,1057,563,Spell (Battle Spell)
+401,1056,597,Spell (Battle Spell)
+402,879,705,Recall
+403,363,692,Joystick
+404,1361,195,Unique item
+405,515,463,Joystick
+406,554,516,Joystick
+407,465,373,Joystick
+408,428,336,Joystick
+409,436,337,Joystick
+410,422,327,Joystick
+411,397,314,Joystick
+412,442,338,Joystick
+413,422,338,Joystick
+414,326,285,Joystick
+415,1397,186,
+416,906,136,
+417,58,130,Mini map
+418,1311,105,Cancelation
+419,47,215,Mini map
+420,511,146,
+421,592,143,
+422,1051,104,
+423,1283,90,Cancelation
+424,1422,67,KDA
+425,177,598,Joystick
+426,249,505,Joystick
+427,222,645,Joystick
+428,849,158,
+429,1113,235,
+430,237,637,Joystick
+431,296,663,Joystick
+432,262,428,Joystick
+433,392,390,Joystick
+434,443,365,Joystick
+435,841,252,
+436,1516,271,Text command
+437,837,297,
+438,491,487,Joystick
+439,280,648,Joystick
+440,1516,333,Text command
+441,460,436,Joystick
+442,250,532,Joystick
+443,256,638,Joystick
+444,892,245,
+445,1520,25,Shop
+446,815,252,
+447,500,547,Joystick
+448,214,641,Joystick
+449,824,260,
+450,824,260,
+451,821,262,
+452,819,259,
+453,822,294,
+454,323,349,Joystick
+455,792,401,
+456,1616,16,Shop
+457,690,144,
+458,823,260,
+459,702,154,
+460,1096,609,Spell (Battle Spell)
+461,373,661,Joystick
+462,405,663,Joystick
+463,1313,484,Skill 2
+464,368,154,On mic team
+465,1614,15,Shop
+466,1614,14,Shop
+467,428,393,Joystick
+468,434,401,Joystick
+469,923,257,
+470,843,390,
+471,526,587,Joystick
+472,871,359,
+473,337,339,Joystick
+474,350,319,Joystick
+475,336,408,Joystick
+476,1383,75,KDA
+477,1345,87,Cancelation
+478,1380,98,Cancelation
+479,1513,118,Attack command
+480,1551,133,Retreat command
+481,1616,167,Retreat command
+482,804,424,
+483,1590,152,Retreat command
+484,1593,157,Retreat command
+485,1593,154,Retreat command
+486,1252,389,Lock enemy 5
+487,1296,422,Skill 3
+488,1294,382,Upgrade skill 3
+489,1310,415,Skill 3
+490,345,177,On mic team
+491,1350,480,Skill 3
+492,135,252,Mini map
+493,1155,519,Skill 2
+494,1078,546,Upgrade skill 1
+495,1083,580,Spell (Battle Spell)
+496,889,660,Recall
+497,364,709,Joystick
+498,522,568,Joystick
+499,493,475,Joystick
+500,541,545,Joystick
+501,460,365,Joystick
+502,412,339,Joystick
+503,437,351,Joystick
+504,425,344,Joystick
+505,417,340,Joystick
+506,373,315,Joystick
+507,259,380,Joystick
+508,217,423,Joystick
+509,1468,104,Attack command
+510,1464,103,Attack command
+511,1411,111,Attack command
+512,1492,76,Attack command
+513,268,646,Joystick
+514,208,431,Joystick
+515,1543,347,Text command
+516,1187,648,Skill 1
+517,639,189,
+518,1342,110,Cancelation
+519,1615,16,Shop
+520,289,562,Joystick
+521,1317,107,Cancelation
+522,914,239,
+523,518,474,Joystick
+524,514,435,Joystick
+525,360,210,Pin mini map
+526,1546,702,
+527,1626,123,Attack command
+528,198,612,Joystick
+529,221,673,Joystick
+530,1618,510,
+531,1543,415,
+532,1548,330,Text command
+533,1609,233,Gather command
+534,1592,160,Retreat command
+535,1408,140,Retreat command
+536,278,656,Joystick
+537,284,662,Joystick
+538,1616,17,Shop
+539,688,349,
+540,1588,19,Shop
+541,368,154,On mic team
+542,368,154,On mic team
+543,359,54,Configuration
+544,432,471,Joystick
+545,518,520,Joystick
+546,487,448,Joystick
+547,447,370,Joystick
+548,959,472,
+549,1625,230,Gather command
+550,570,547,Joystick
+551,564,184,
+552,557,145,
+553,376,332,Joystick
+554,374,220,Pin mini map
+555,386,562,Joystick
+556,349,530,Joystick
+557,299,264,Joystick
+558,368,154,On mic team
+559,359,206,Pin mini map
+560,1491,13,Shop
+561,952,491,
+562,322,273,Joystick
+563,375,219,Pin mini map
+564,375,219,Pin mini map
+565,375,219,Pin mini map
+566,1549,13,Shop
+567,1391,67,KDA
+568,861,21,Time score
+569,1564,20,Shop
+570,1563,12,Shop
+571,1519,51,Shop
+572,375,219,Pin mini map
+573,374,219,Pin mini map
+574,374,219,Pin mini map
+575,375,219,Pin mini map
+576,375,219,Pin mini map
+577,375,220,Pin mini map
+578,375,219,Pin mini map
+579,375,219,Pin mini map
+580,604,342,
+581,375,220,Pin mini map
+582,375,219,Pin mini map
+583,1253,389,Lock enemy 5
+584,1054,559,Spell (Battle Spell)
+585,896,54,Time score
+586,513,471,Joystick
+587,1617,423,
+588,1622,435,
+589,1601,591,
+590,423,377,Joystick
+591,573,331,
+592,475,395,Joystick
+593,481,401,Joystick
+594,349,377,Joystick
+595,255,369,Joystick
+596,391,370,Joystick
+597,405,359,Joystick
+598,368,154,On mic team
+599,518,527,Joystick
+600,1404,353,Skill 3
+601,1520,659,Basic attack
+602,1407,193,
+603,1330,75,Cancelation
+604,1018,650,Spell (Battle Spell)
+605,1323,303,Unique item
+606,1052,234,
+607,1161,556,Skill 1
+608,1082,458,Lock enemy 2
+609,341,527,Joystick
+610,1363,47,KDA
+611,1225,431,Upgrade skill 2
+612,1502,116,Attack command
+613,1360,126,Cancelation
+614,1310,165,Cancelation
+615,449,480,Joystick
+616,1463,156,Retreat command
+617,1093,156,
+618,1210,385,Lock enemy 3
+619,416,470,Joystick
+620,826,653,Recall
+621,1047,91,
+622,1506,423,
+623,1483,85,Attack command
+624,309,646,Joystick
+625,1265,607,Skill 1
+626,234,606,Joystick
+627,1471,369,Skill 3
+628,1622,638,
+629,195,584,Joystick
+630,192,587,Joystick
+631,894,246,
+632,1259,625,Skill 1
+633,368,154,On mic team
+634,729,347,
+635,368,154,On mic team
+636,368,154,On mic team
+637,368,154,On mic team
+638,1331,567,Basic attack
+639,1616,16,Shop
+640,477,562,Joystick
+641,449,425,Joystick
+642,1616,16,Shop
+643,425,348,Joystick
+644,1231,166,Cancelation
+645,1037,504,Lock enemy 1
+646,1598,166,Retreat command
+647,1136,671,Skill 1
+648,1250,687,Skill 1
+649,192,443,Joystick
+650,195,590,Joystick
+651,230,638,Joystick
+652,214,630,Joystick
+653,415,73,Configuration
+654,376,98,On mic global
+655,197,484,Joystick
+656,163,537,Joystick
+657,174,552,Joystick
+658,163,539,Joystick
+659,178,642,Joystick
+660,368,154,On mic team
+661,368,154,On mic team
+662,276,477,Joystick
+663,226,490,Joystick
+664,228,495,Joystick
+665,291,520,Joystick
+666,368,155,On mic team
+667,1616,16,Shop
+668,250,591,Joystick
+669,1616,16,Shop
+670,365,57,Configuration
+671,210,610,Joystick
+672,174,573,Joystick
+673,229,378,Joystick
+674,1173,427,Upgrade skill 2
+675,346,363,Joystick
+676,373,365,Joystick
+677,747,251,
+678,368,154,On mic team
+679,368,154,On mic team
+680,368,154,On mic team
+681,701,4,
+682,1077,302,
+683,862,436,
+684,1191,244,
+685,288,525,Joystick
+686,799,336,
+687,718,370,
+688,368,155,On mic team
+689,368,59,Configuration
+690,317,325,Joystick
+691,1192,371,Lock enemy 3
+692,183,299,Mini map
+693,636,184,
+694,676,212,
+695,174,98,Mini map
+696,683,319,
+697,867,303,
+698,915,185,
+699,199,299,Mini map
+700,189,302,Mini map
+701,92,270,Mini map
+702,1068,556,Upgrade skill 1
+703,641,703,
+704,1568,164,Retreat command
+705,858,141,
+706,103,251,Mini map
+707,515,493,Joystick
+708,55,664,
+709,810,92,
+710,408,318,Joystick
+711,223,350,Joystick
+712,426,369,Joystick
+713,534,478,Joystick
+714,521,455,Joystick
+715,543,541,Joystick
+716,368,154,On mic team
+717,848,476,
+718,367,155,On mic team
+719,1616,16,Shop
+720,199,385,Joystick
+721,369,155,On mic team
+722,823,210,
+723,693,1,
+724,693,1,
+725,1616,16,Shop
+726,422,386,Joystick
+727,198,407,Joystick
+728,272,338,Joystick
+729,340,323,Joystick
+730,369,324,Joystick
+731,332,307,Joystick
+732,331,303,Joystick
+733,348,303,Joystick
+734,394,314,Joystick
+735,392,306,Joystick
+736,1616,17,Shop
+737,296,669,Joystick
+738,1538,652,Basic attack
+739,1543,647,Basic attack
+740,882,656,Recall
+741,915,344,
+742,393,396,Joystick
+743,1415,46,KDA
+744,443,480,Joystick
+745,313,660,Joystick
+746,366,346,Joystick
+747,305,271,Joystick
+748,1496,279,Text command
+749,1502,109,Attack command
+750,1436,100,Attack command
+751,1337,123,Cancelation
+752,1039,180,
+753,1581,443,
+754,636,100,
+755,613,588,Joystick
+756,851,243,
+757,1577,475,
+758,1143,60,
+759,356,268,Joystick
+760,673,636,
+761,511,219,
+762,167,438,Joystick
+763,333,346,Joystick
+764,193,568,Joystick
+765,368,154,On mic team
+766,368,154,On mic team
+767,368,154,On mic team
+768,368,154,On mic team
+769,347,324,Joystick
+770,330,333,Joystick
+771,705,450,
+772,353,392,Joystick
+773,571,454,Joystick
+774,679,417,
+775,588,430,
+776,375,219,Pin mini map
+777,713,251,
+778,796,358,
+779,664,218,
+780,1616,17,Shop
+781,368,154,On mic team
+782,946,390,
+783,1614,15,Shop
+784,364,208,Pin mini map
+785,1616,17,Shop
+786,368,154,On mic team
+787,1616,17,Shop
+788,1616,17,Shop
+789,1616,17,Shop
+790,1616,17,Shop
+791,1616,17,Shop
+792,1616,17,Shop
+793,1616,17,Shop
+794,1616,17,Shop
+795,1588,19,Shop
+796,1616,17,Shop
+797,364,55,Configuration
+798,1307,453,Skill 2
+799,1176,510,Skill 2
+800,450,504,Joystick
+801,842,685,Recall
+802,607,58,Time score
+803,1142,152,
+804,462,238,
+805,546,536,Joystick
+806,404,339,Joystick
+807,368,154,On mic team
+808,452,347,Joystick
+809,401,316,Joystick
+810,445,336,Joystick
+811,499,376,Joystick
+812,277,313,Joystick
+813,311,684,Joystick
+814,308,684,Joystick
+815,695,485,
+816,527,566,Joystick
+817,534,510,Joystick
+818,368,315,Joystick
+819,519,370,Joystick
+820,539,374,Joystick
+821,540,369,Joystick
+822,543,358,Joystick
+823,1599,313,Text command
+824,1474,173,Retreat command
+825,457,404,Joystick
+826,1370,176,Cancelation
+827,269,630,Joystick
+828,240,524,Joystick
+829,1174,386,Lock enemy 3
+830,362,332,Joystick
+831,341,293,Joystick
+832,360,291,Joystick
+833,358,332,Joystick
+834,251,390,Joystick
+835,239,583,Joystick
+836,256,626,Joystick
+837,321,400,Joystick
+838,948,267,
+839,928,345,Upgrade skill 1
+840,1045,376,
+841,1616,16,Shop
+842,1616,16,Shop
+843,987,346,
+844,1293,446,Skill 2
+845,361,133,On mic global
+846,1337,504,Skill 2
+847,1261,441,Skill 2
+848,227,241,Mini map
+849,158,232,Mini map
+850,134,270,Mini map
+851,1004,593,Spell (Battle Spell)
+852,486,492,Joystick
+853,901,343,
+854,454,368,Joystick
+855,147,604,Joystick
+856,495,387,Joystick
+857,496,388,Joystick
+858,488,376,Joystick
+859,492,368,Joystick
+860,504,379,Joystick
+861,511,385,Joystick
+862,427,321,Joystick
+863,1494,171,Retreat command
+864,1234,555,Skill 2
+865,408,434,Joystick
+866,197,672,Joystick
+867,924,458,
+868,1564,504,
+869,1086,705,Spell (Battle Spell)
+870,450,318,Joystick
+871,617,244,
+872,300,526,Joystick
+873,294,331,Joystick
+874,367,153,On mic team
+875,368,154,On mic team
+876,368,154,On mic team
+877,363,206,Pin mini map
+878,548,216,
+879,649,254,
+880,630,262,
+881,640,267,
